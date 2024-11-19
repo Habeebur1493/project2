@@ -16,7 +16,7 @@ const App = () => {
 
     <a target="_blank" href= "https://jsonplaceholder.typicode.com/users">Users</a>
 
-    <p>This is my passkey {import.meta.env.VITE_PASSKEY}</p>
+    <p>This is my passkey {process.env.VITE_PASSKEY} </p>
     
 
     </div>
