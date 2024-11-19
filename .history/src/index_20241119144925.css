@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+h1{
+
+  font-size: 50px;
+  font-weight: 900;
+  background-color: aquamarine;
+  padding: 10px;
+  text-align: center;
+
+}
